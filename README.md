@@ -185,3 +185,6 @@ c:\Users\user1> javascripting
 <br/>
 
 <p><strong>Listo, ahora tienes lo necesario para desarrollar cada Workshop!</strong></p>
+
+###Creado por: Laura Castillo.
+###Actualizado por: Laurens Ortiz & Steven Pérez.
