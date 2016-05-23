@@ -171,11 +171,7 @@ Por ejemplo:
 ```sh
 c:\Users\user1> npm install -g javascripting
 ```
-Nota: Si tienes algún problema a la hora de instalar, intenta añadiendo el prefijo “sudo”:
 
-```sh
-c:\Users\user1> sudo npm install --global javascripting
-```
 Y finalmente ejecutamos el comando del taller respectivo para comenzar:
 
 ```sh
